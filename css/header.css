@@ -1,0 +1,14 @@
+.info-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px 0 10px;
+}
+
+.info-bar__time{
+    font: bold;
+}
+
+.info-bar__icons img{
+    width: 20px;
+}
